@@ -11,3 +11,7 @@
 ```
 print('Hello User')
 ```
+
+- [x] Complete Task 1
+- [ ] Complete Task 2
+- [ ] Complete Task 3
